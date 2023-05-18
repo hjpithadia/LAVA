@@ -1,0 +1,4 @@
+name: environment.yaml
+channels:
+  - defaults
+prefix: /home/jk/miniconda3/envs/environment.yaml
